@@ -1,6 +1,6 @@
 {
-  "short_name": "Freecodecamp Leaderboard",
-  "name": "Freecodecamp leaderboard built with React",
+  "short_name": "Leaderboard",
+  "name": "Freecodecamp leaderboard",
   "icons": [
     {
       "src": "favicon.ico",
