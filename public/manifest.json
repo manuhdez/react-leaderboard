@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Freecodecamp Leaderboard",
+  "name": "Freecodecamp leaderboard built with React",
   "icons": [
     {
       "src": "favicon.ico",
